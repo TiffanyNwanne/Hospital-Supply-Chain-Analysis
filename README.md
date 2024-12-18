@@ -137,4 +137,3 @@ Based on the analysis, the following steps could improve hospital supply chain e
 
 ---
 
-Would you like a detailed report format or additional sections like forecasting models, cost analysis, or interactive dashboard tools?
