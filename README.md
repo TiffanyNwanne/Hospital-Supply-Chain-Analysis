@@ -26,13 +26,13 @@ We used two CSV files:
 1. **Most Frequently Restocked Items:**  
 Identified items with the highest restocking frequency using:
 
-```sql
+
 SELECT Item_Name, COUNT(*) AS Restock_Count
 FROM inventory_data
 WHERE Current_Stock < Min_Required
 GROUP BY Item_Name
 ORDER BY Restock_Count DESC;
-```
+
 
 2. **Supplier Performance:**  
 Checked suppliers with the most restocks and shortest lead times:
