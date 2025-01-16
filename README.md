@@ -15,6 +15,8 @@ The primary goal of this project was to analyze the hospital’s supply chain by
 
 ## 2. Process Overview
 
+This project was analyzed in Python using SQLite3 Library
+
 ### A. Data Loading & SQL Queries
 
 We used two CSV files:  
