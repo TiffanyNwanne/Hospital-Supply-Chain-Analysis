@@ -1,5 +1,6 @@
-
 # Hospital Supply Chain Analysis Summary
+
+[![Preview Image](https://github.com/TiffanyNwanne/Hospital-Supply-Chain-Analysis/blob/main/DASHBOARD.png))](https://github.com/TiffanyNwanne/Hospital-Supply-Chain-Analysis/blob/main/DASHBOARD.png)
 
 ## 1. Objective of the Analysis
 
